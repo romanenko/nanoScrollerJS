@@ -1,6 +1,7 @@
 {
-  "name": "jquery-plugin",
-  "version": "0.0.0-ignored",
+  "name": "nanoscroller",
+  "version": "0.7.2",
+  "description": "A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars.",
   "engines": {
     "node": ">= 0.6.0"
   },
