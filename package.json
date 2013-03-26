@@ -6,7 +6,7 @@
     "node": ">= 0.6.0"
   },
   "dependencies": {
-    "grunt-css": "~0.4.1",
+    "grunt-contrib-csslint": "~0.1.1",
     "grunt-coffee": "~0.0.6",
     "grunt-jasmine-task": "~0.2.3",
     "grunt-sizediff": "~0.2.1",
